@@ -90,7 +90,7 @@ Through this project, I learned how to:
 ## 📷 Project Screenshots
 
 ### 1. Database Structure
-![Database Structure](01_databasestructure.png)
+![Database Structure](01_database_structure.png)
 ### 2. Customers Table
 ![Customers Table](02_customer_table.png)
 ### 3. Products Table
@@ -106,7 +106,7 @@ Through this project, I learned how to:
 ### 8. Customer Spending Analysis
 ![Customer Spending](08_customer_spending.png)
 ### 9. Best Selling Product
-![Best Selling Product](09_best_selling_products.png)
+![Best Selling Product](09_best_sellingproducts.png)
 ### 10. Monthly Revenue Analysis
 ![Monthly Revenue](10_monthly_revenue.png)
 ### 11. Orders Per Customer
