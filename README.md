@@ -87,10 +87,32 @@ Through this project, I learned how to:
 - Calculate business KPIs
 - Transform raw data into business insights
 
-## 📷 Screenshots
+## 📷 Project Screenshots
 
-Screenshots of the database, SQL queries, and outputs are available in the `screenshots` folder.
-
+### 1. Database Structure
+![Database Structure](01_database_structure.png)
+### 2. Customers Table
+![Customers Table](02_customers_table.png)
+### 3. Products Table
+![Products Table](03_products_table.png)
+### 4. Orders Table
+![Orders Table](04_orders_table.png)
+### 5. Customer Purchases (JOIN Query)
+![Customer Purchases](05_customer_purchases_join.png)
+### 6. Total Revenue Analysis
+![Total Revenue](06_total_revenue.png)
+### 7. Revenue by Category
+![Revenue by Category](07_revenue_by_category.png)
+### 8. Customer Spending Analysis
+![Customer Spending](08_customer_spending.png)
+### 9. Best Selling Product
+![Best Selling Product](09_best_selling_product.png)
+### 10. Monthly Revenue Analysis
+![Monthly Revenue](10_monthly_revenue.png)
+### 11. Orders Per Customer
+![Orders Per Customer](11_orders_per_customer.png)
+### 12. Project Folder Structure
+![Project Folder](12__roject_folder.png)
 
 ## 👨‍💻 Author
 
