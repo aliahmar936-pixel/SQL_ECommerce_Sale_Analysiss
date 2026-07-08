@@ -90,7 +90,7 @@ Through this project, I learned how to:
 ## 📷 Project Screenshots
 
 ### 1. Database Structure
-![Database Structure](01_database_structure.png)
+![Database Structure](01_databasestructure.png)
 ### 2. Customers Table
 ![Customers Table](02_customer_table.png)
 ### 3. Products Table
